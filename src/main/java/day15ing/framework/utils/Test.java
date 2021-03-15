@@ -7,6 +7,7 @@ public class Test {
 
     public static void main(String[] args) {
         logger.info(123);
+        System.out.println("修改一点东西");
         System.out.println("在家里输出一条语句");
     }
 }
